@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+88CLB - Nền tảng giải trí trực tuyến 88CLB
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`88CLB <https://88clb.equipment/>`_ là công ty giải trí hợp pháp tại Costa Rica, tuân thủ chặt chẽ các quy định chơi game của chính phủ và phục vụ hơn 10 triệu người chơi. Với đội ngũ chuyên nghiệp và sản phẩm chất lượng cao, 88CLB đảm bảo bảo mật thông tin khách hàng bằng tiêu chuẩn mã hóa tối ưu. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Nổi bật với sự đa dạng về sản phẩm, tỷ lệ thắng hấp dẫn và công nghệ nạp, rút tiền siêu tốc chỉ trong 3-5 phút, 88CLB không giới hạn số lần rút tiền mỗi ngày. Dịch vụ chăm sóc khách hàng 24/7 qua nhiều kênh hỗ trợ luôn sẵn sàng đáp ứng mọi nhu cầu và luôn mang đến ưu đãi đặc biệt cho khách hàng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 417 Đ. Trần Văn Giàu, Bình Trị Đông B, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0314465820. 
 
-.. toctree::
+Email: info@88clb.equipment. 
 
-   usage
-   api
+Website: https://88clb.equipment/ 
+
+#88clb #trangchu88clb #dangky88clb #dangnhap88clb #link88clb
